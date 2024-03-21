@@ -101,6 +101,9 @@ body{
     
    
   }
+  .button:hover{
+    background-color:hsl(240, 100%, 5%) ;
+  }
   .articles{
     display: flex;
     gap: 1rem;
